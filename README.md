@@ -12,7 +12,7 @@ A desktop GUI application to manage student records using **Python (Tkinter)** a
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.12.4**
 - **Tkinter** (for GUI)
 - **MySQL** (Backend database)
 - **mysql-connector-python**
